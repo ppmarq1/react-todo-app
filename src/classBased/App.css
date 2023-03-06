@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Segoe UI", Arial, sans-serif;
+  font-family: 'Segoe UI', Arial, sans-serif;
   line-height: 1.4;
   color: #444;
   background: #fff;
@@ -50,10 +50,10 @@ body {
 
 .input-submit {
   background: transparent;
+  color: #5b5b5b;
   text-transform: capitalize;
   cursor: pointer;
   font-weight: 600;
-  font-size: xx-large;
   margin-right: 10px;
 }
 
@@ -62,10 +62,4 @@ body {
   height: 45px;
   outline: none;
   border: none;
-}
-
-.input-submit svg {
-  color: darkcyan;
-  font-size: 20px;
-  margin-top: 2px;
 }
